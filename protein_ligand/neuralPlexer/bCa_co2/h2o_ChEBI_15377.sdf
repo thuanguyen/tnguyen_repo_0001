@@ -1,0 +1,89 @@
+
+Marvin  01211112152D          
+
+  3  2  0  0  0  0            999 V2000
+   -0.4125    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+CHEBI:15377
+
+> <NAME>
+water
+
+> <DEFINITION>
+An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:5585; CHEBI:42857; CHEBI:42043; CHEBI:44292; CHEBI:44819; CHEBI:43228; CHEBI:44701; CHEBI:10743; CHEBI:13352; CHEBI:27313
+
+> <SYNONYM>
+Water; WATER; Wasser; hydrogen hydroxide; HOH; H(2)O; H2O; eau; dihydrogen oxide; dihydridooxygen; BOUND WATER; aqua; agua; acqua; [OH2]
+
+> <IUPAC_NAME>
+water; oxidane
+
+> <FORMULA>
+H2O
+
+> <MASS>
+18.01530
+
+> <MONOISOTOPIC_MASS>
+18.01056
+
+> <CHARGE>
+0
+
+> <SMILES>
+[H]O[H]
+
+> <INCHI>
+InChI=1S/H2O/h1H2
+
+> <INCHIKEY>
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+3587155
+
+> <CAS_REGISTRY_NUMBER>
+7732-18-5
+
+> <GMELIN_REGISTRY_NUMBER>
+117
+
+> <REAXYS_REGISTRY_NUMBER>
+3587155
+
+> <CHEMIDPLUS>
+7732-18-5
+
+> <KEGG_COMPOUND_ACCESSION>
+C00001
+
+> <KEGG_DRUG_ACCESSION>
+D00001
+
+> <METACYC_ACCESSION>
+WATER
+
+> <MOLBASE_ACCESSION>
+1
+
+> <NIST_CHEMISTRY_WEBBOOK>
+7732-18-5
+
+> <PDBECHEM_ACCESSION>
+HOH
+
+> <WIKIPEDIA_ACCESSION>
+Water
+
+$$$$
