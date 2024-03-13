@@ -5,11 +5,11 @@ ZN
 M  V30 BEGIN CTAB
 M  V30 COUNTS 5 2 0 0 0
 M  V30 BEGIN ATOM
-M  V30 1 Zn -3.439155 -3.586791 17.987787 0 CHG=2 VAL=-1
-M  V30 2 O -0.294007 -3.979606 -0.257906 0
-M  V30 3 O 0.115135 -4.915906 -1.253116 0
-M  V30 4 C 0.543946 -4.042065 -0.511618 0
-M  V30 5 O 1.524030 -3.376124 -0.191332 0
+M  V30 1 Zn 15.037409 5.610745 -9.929943 0 CHG=2 VAL=-1
+M  V30 2 O -0.367094 0.184057 -3.336371 0
+M  V30 3 O 9.721613 6.799076 16.850994 0
+M  V30 4 C 9.443301 7.507370 15.911947 0
+M  V30 5 O 9.533616 8.588774 15.456861 0
 M  V30 END ATOM
 M  V30 BEGIN BOND
 M  V30 1 2 3 4
@@ -60,6 +60,266 @@ atom_site
 0
 
 >  <model_server_stats.element_count>  (1) 
+1
+
+$$$$
+ZN
+     RDKit          3D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 5 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 Zn -11.967486 3.076072 -7.295995 0 CHG=2 VAL=-1
+M  V30 2 O 3.615838 -1.454628 2.913056 0
+M  V30 3 O 1.988549 -1.792561 2.903376 0
+M  V30 4 C 3.037095 -2.449872 3.298818 0
+M  V30 5 O 3.948621 -2.186293 4.169558 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 3 4
+M  V30 2 2 4 5
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(0)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+>  <model_server_result.job_id>  (2) 
+_A-df7-1Vu3UugWSCejwrg
+
+>  <model_server_result.datetime_utc>  (2) 
+2024-03-13 15:44:59
+
+>  <model_server_result.server_version>  (2) 
+0.9.11
+
+>  <model_server_result.query_name>  (2) 
+ligand
+
+>  <model_server_result.source_id>  (2) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (2) 
+1v9e
+
+>  <model_server_params.name>  (2) 
+atom_site
+
+>  <model_server_params.value>  (2) 
+{"label_asym_id":"C","auth_seq_id":260}
+
+>  <model_server_stats.io_time_ms>  (2) 
+10
+
+>  <model_server_stats.parse_time_ms>  (2) 
+49
+
+>  <model_server_stats.create_model_time_ms>  (2) 
+36
+
+>  <model_server_stats.query_time_ms>  (2) 
+238
+
+>  <model_server_stats.encode_time_ms>  (2) 
+0
+
+>  <model_server_stats.element_count>  (2) 
+1
+
+$$$$
+ZN
+     RDKit          3D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 5 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 Zn -9.796936 -17.009844 -3.145956 0 CHG=2 VAL=-1
+M  V30 2 O 2.109065 2.428062 -2.692744 0
+M  V30 3 O 0.035676 2.024977 -2.811067 0
+M  V30 4 C -0.489405 3.138016 -2.825188 0
+M  V30 5 O -1.509852 3.760376 -2.532248 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 3 4
+M  V30 2 2 4 5
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(0)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+>  <model_server_result.job_id>  (3) 
+_A-df7-1Vu3UugWSCejwrg
+
+>  <model_server_result.datetime_utc>  (3) 
+2024-03-13 15:44:59
+
+>  <model_server_result.server_version>  (3) 
+0.9.11
+
+>  <model_server_result.query_name>  (3) 
+ligand
+
+>  <model_server_result.source_id>  (3) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (3) 
+1v9e
+
+>  <model_server_params.name>  (3) 
+atom_site
+
+>  <model_server_params.value>  (3) 
+{"label_asym_id":"C","auth_seq_id":260}
+
+>  <model_server_stats.io_time_ms>  (3) 
+10
+
+>  <model_server_stats.parse_time_ms>  (3) 
+49
+
+>  <model_server_stats.create_model_time_ms>  (3) 
+36
+
+>  <model_server_stats.query_time_ms>  (3) 
+238
+
+>  <model_server_stats.encode_time_ms>  (3) 
+0
+
+>  <model_server_stats.element_count>  (3) 
+1
+
+$$$$
+ZN
+     RDKit          3D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 5 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 Zn -1.998600 9.781938 12.426519 0 CHG=2 VAL=-1
+M  V30 2 O -0.863649 -3.492889 -3.766517 0
+M  V30 3 O 0.385667 -4.072453 -3.790951 0
+M  V30 4 C 1.431767 -3.450833 -3.676672 0
+M  V30 5 O 2.340185 -2.888924 -4.352039 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 3 4
+M  V30 2 2 4 5
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(0)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+>  <model_server_result.job_id>  (4) 
+_A-df7-1Vu3UugWSCejwrg
+
+>  <model_server_result.datetime_utc>  (4) 
+2024-03-13 15:44:59
+
+>  <model_server_result.server_version>  (4) 
+0.9.11
+
+>  <model_server_result.query_name>  (4) 
+ligand
+
+>  <model_server_result.source_id>  (4) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (4) 
+1v9e
+
+>  <model_server_params.name>  (4) 
+atom_site
+
+>  <model_server_params.value>  (4) 
+{"label_asym_id":"C","auth_seq_id":260}
+
+>  <model_server_stats.io_time_ms>  (4) 
+10
+
+>  <model_server_stats.parse_time_ms>  (4) 
+49
+
+>  <model_server_stats.create_model_time_ms>  (4) 
+36
+
+>  <model_server_stats.query_time_ms>  (4) 
+238
+
+>  <model_server_stats.encode_time_ms>  (4) 
+0
+
+>  <model_server_stats.element_count>  (4) 
+1
+
+$$$$
+ZN
+     RDKit          3D
+
+  0  0  0  0  0  0  0  0  0  0999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 5 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 Zn 5.322000 -17.685261 -5.080884 0 CHG=2 VAL=-1
+M  V30 2 O -3.130933 -2.082713 0.145748 0
+M  V30 3 O 14.690557 -6.011968 14.494676 0
+M  V30 4 C 14.061704 -4.910396 14.449061 0
+M  V30 5 O 14.430627 -3.719851 14.250015 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 3 4
+M  V30 2 2 4 5
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(0)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+>  <model_server_result.job_id>  (5) 
+_A-df7-1Vu3UugWSCejwrg
+
+>  <model_server_result.datetime_utc>  (5) 
+2024-03-13 15:44:59
+
+>  <model_server_result.server_version>  (5) 
+0.9.11
+
+>  <model_server_result.query_name>  (5) 
+ligand
+
+>  <model_server_result.source_id>  (5) 
+pdb-bcif
+
+>  <model_server_result.entry_id>  (5) 
+1v9e
+
+>  <model_server_params.name>  (5) 
+atom_site
+
+>  <model_server_params.value>  (5) 
+{"label_asym_id":"C","auth_seq_id":260}
+
+>  <model_server_stats.io_time_ms>  (5) 
+10
+
+>  <model_server_stats.parse_time_ms>  (5) 
+49
+
+>  <model_server_stats.create_model_time_ms>  (5) 
+36
+
+>  <model_server_stats.query_time_ms>  (5) 
+238
+
+>  <model_server_stats.encode_time_ms>  (5) 
+0
+
+>  <model_server_stats.element_count>  (5) 
 1
 
 $$$$
