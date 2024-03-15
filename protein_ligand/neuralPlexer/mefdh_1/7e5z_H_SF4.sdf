@@ -1,0 +1,68 @@
+SF4
+  ModelServer 0.9.11
+
+  8 12  0  0  0  0  0  0  0  0  0
+   94.2670   90.5830   96.0820 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   91.7250   91.1660   95.2610 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   93.7220   90.8710   93.4130 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   93.6870   93.0550   95.0570 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   92.1440   92.5120   93.4670 S   0  0  0  0  0  0  0  0  0  0  0  0
+   95.4860   91.7530   94.5500 S   0  0  0  0  0  0  0  0  0  0  0  0
+   92.8650   92.1410   96.9740 S   0  0  0  0  0  0  0  0  0  0  0  0
+   92.9050   89.2690   94.8190 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+HrvEH68ksyqYjVR9f_a7Nw
+
+> <model_server_result.datetime_utc>
+2024-03-15 02:27:28
+
+> <model_server_result.server_version>
+0.9.11
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+7e5z
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_asym_id":"H","auth_seq_id":1005}
+
+> <model_server_stats.io_time_ms>
+3
+
+> <model_server_stats.parse_time_ms>
+50
+
+> <model_server_stats.create_model_time_ms>
+28
+
+> <model_server_stats.query_time_ms>
+208
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+8
+
+$$$$

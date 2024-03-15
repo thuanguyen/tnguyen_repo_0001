@@ -1,0 +1,49 @@
+W
+  ModelServer 0.9.11
+
+  1  0  0  0  0  0  0  0  0  0  0
+   93.1750  101.5220   70.4920 W   0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+> <model_server_result.job_id>
+U0KLM0PGsfydqzu864nncQ
+
+> <model_server_result.datetime_utc>
+2024-03-15 02:27:34
+
+> <model_server_result.server_version>
+0.9.11
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+7e5z
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_asym_id":"C","auth_seq_id":1000}
+
+> <model_server_stats.io_time_ms>
+10
+
+> <model_server_stats.parse_time_ms>
+47
+
+> <model_server_stats.create_model_time_ms>
+21
+
+> <model_server_stats.query_time_ms>
+205
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+1
+
+$$$$
