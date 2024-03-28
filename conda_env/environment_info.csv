@@ -3,3 +3,4 @@ prolig_0001,protein-ligand interaction using NeuralPlexer
 tvnEnv0002_modeller,homologous modelling with Modeller
 tvnEnv0003_colabfold,colabfold
 tvnEnv0004_rosettaFoldAa,RoseTTAFold All-atom
+tvnEnv0005_cobra,COBRApy metabolic modelling
