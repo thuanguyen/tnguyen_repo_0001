@@ -1,0 +1,20 @@
+id,name,Status
+for_c,formate,Present
+thf_c,"5,6,7,8-Tetrahydrofolate",Present
+10fthf_c,10-Formyltetrahydrofolate,Present
+methf_c,"5,10-Methenyltetrahydrofolate",Present
+mlthf_c,"5,10-Methylenetetrahydrofolate",Present
+gly_c,Glycine,Present
+ser__L_c,Serine,Present
+pyr_c,Pyruvate,Present
+nadh_c,Nicotinamide adenine dinucleotide,Present
+nad_c,Nicotinamide adenine dinucleotide - reduced,Present
+nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,Present
+nadp_c,Nicotinamide adenine dinucleotide phosphate,Present
+atp_c,ATP C10H12N5O13P3,Present
+adp_c,ADP C10H12N5O10P2,Present
+pi_c,Phosphate,Present
+co2_c,CO2 CO2,Present
+nh4_c,Ammonium,Present
+h2o_c,H2O H2O,Present
+h_c,H+,Present
