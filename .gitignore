@@ -447,3 +447,4 @@ protein_ligand/neuralPlexer/test_7cki/6UWVA/lig_ref.sdf
 protein_ligand/neuralPlexer/test_7cki/6V5LA/lig_0.sdf
 protein_ligand/neuralPlexer/test_7cki/6V5LA/lig_all.sdf
 protein_ligand/neuralPlexer/test_7cki/PDBBind2019+bychain_AF2selected_benchmarking_summary.csv
+conda_env/.ipynb_checkpoints/tvnEnv0003_colabfold-checkpoint.yml
