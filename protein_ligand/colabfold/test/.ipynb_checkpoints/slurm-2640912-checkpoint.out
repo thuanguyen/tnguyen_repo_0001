@@ -1,0 +1,6 @@
+CUDA configured with directory: /opt/cuda/11.8
+CUDA available: False
+[NbConvertApp] Converting notebook /home6/tvnguye4/google_cloud/protein_ligand/colabfold/test/test2.ipynb to notebook
+2024-04-03 09:45:58.753198: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[NbConvertApp] Writing 1972 bytes to /home6/tvnguye4/google_cloud/protein_ligand/colabfold/test/test2.ipynb
