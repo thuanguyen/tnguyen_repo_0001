@@ -49,8 +49,6 @@ dependencies:
   - contextlib2=21.6.0=pyhd8ed1ab_0
   - contourpy=1.2.0=py310hd41b1e2_0
   - cryptography=42.0.5=py310h75e40e8_0
-  - cuda-version=11.8=hcce14f8_2
-  - cudatoolkit=11.8.0=h6a678d5_0
   - cycler=0.12.1=pyhd8ed1ab_0
   - dataclasses=0.8=pyhc8e2a94_3
   - dav1d=1.2.1=hd590300_0
