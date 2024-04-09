@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # LSF job submission: 1 core, 30 min runtime, 16GB memory, 1 shared GPU with MPS on the new_gpu queue
-#BSUB -n 1                          # Core count
+#BSUB -n 8                          # Core count
 #BSUB -J test_gpu                   # Job name
 #BSUB -W 30                         # Runtime (minutes)
-#BSUB -R "rusage[mem=16GB]"         # Memory request
+#BSUB -R "rusage[mem=32GB]"         # Memory request
 #BSUB -q gpu                        # Queue selection
 #BSUB -gpu "num=1:mode=shared:mps=yes" # GPU request
 #BSUB -o out.%J                     # Output file
