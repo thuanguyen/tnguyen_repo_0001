@@ -11,10 +11,11 @@
 #BSUB -e err.%J                     # Error file                  
 
 # Source the bash profile to ensure conda and other environment variables are available
-source .bashrc
+export HOME=/share/probioticengring/tvnguye4/
+source /share/probioticengring/tvnguye4/.bashrc
 
 # Activate the Conda environment
-conda activate /usr/local/usrapps/probioticengring/tvnguyen/conda/envs/tvnEnv0003_colabfold
+conda activate tvnEnv0003_colabfold
 
 # Set CUDA 12.0 as the CUDA environment
 export PATH=/usr/local/apps/cuda/cuda-12.0/bin:$PATH
