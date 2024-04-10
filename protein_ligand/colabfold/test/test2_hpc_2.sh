@@ -12,24 +12,18 @@
 
 # Source the bash profile to ensure conda and other environment variables are available
 export HOME=/share/probioticengring/tvnguye4/
+export PATH="usr/local/usrapps/probioticengring/tvnguyen/conda/envs/tvnBase/envs/tvnEnv0003_colabfold/bin:$PATH"
 source /share/probioticengring/tvnguye4/.bashrc
 
-# Activate the Conda environment
-conda activate tvnEnv0003_colabfold
-
 # Set CUDA 12.0 as the CUDA environment
-export PATH=/usr/local/apps/cuda/cuda-12.0/bin:$PATH
-export LD_LIBRARY_PATH=/usr/local/apps/cuda/cuda-12.0/lib64:$LD_LIBRARY_PATH
-export CUDA_HOME=/usr/local/apps/cuda/cuda-12.0
+module load cuda/12.0
+module load gcc/9.3.0
+module load compiler/latest
 
-# Verify CUDA Compiler Version to ensure CUDA 12.0 is loaded properly
-nvcc -V
-
-# Check NVIDIA System Management Interface to confirm GPU allocation
+lspci | grep -i nvidia
 nvidia-smi
+nvcc --version
+echo $CUDA_HOME
 
 # Execute the Jupyter notebook, converting it in place to ensure all cells are executed
 jupyter nbconvert --to notebook --execute --inplace /share/probioticengring/tvnguye4/google_cloud/protein_ligand/colabfold/test/test2.ipynb
-
-# Deactivate the Conda environment
-conda deactivate

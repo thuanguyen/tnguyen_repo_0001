@@ -449,3 +449,9 @@ protein_ligand/neuralPlexer/test_7cki/6V5LA/lig_all.sdf
 protein_ligand/neuralPlexer/test_7cki/PDBBind2019+bychain_AF2selected_benchmarking_summary.csv
 conda_env/.ipynb_checkpoints/tvnEnv0003_colabfold-checkpoint.yml
 protein_ligand/colabfold/.ipynb_checkpoints/colabfold_installation-checkpoint.ipynb
+protein_ligand/colabfold/test/.ipynb_checkpoints/err-checkpoint.532092
+protein_ligand/colabfold/test/.ipynb_checkpoints/err-checkpoint.532111
+protein_ligand/colabfold/test/.ipynb_checkpoints/out-checkpoint.532092
+protein_ligand/colabfold/test/.ipynb_checkpoints/out-checkpoint.532111
+protein_ligand/colabfold/test/err.532111
+protein_ligand/colabfold/test/out.532111
