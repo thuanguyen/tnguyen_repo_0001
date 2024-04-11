@@ -18,8 +18,8 @@
 #BSUB -R "rusage[mem=64GB]"
 
 # Queue assignment (use GPU queue)
+#BSUB -R "select[p100 || a30]"
 #BSUB -q gpu
-#BSUB -R "select[a30]"
 
 # GPU allocation: request 1 shared GPU without MPS (multi-process service)
 #BSUB -gpu "num=1:mode=shared:mps=no"
@@ -53,4 +53,4 @@ cd /share/probioticengring/tvnguye4/git/RoseTTAFold-All-Atom
 chmod u+x /share/probioticengring/tvnguye4/git/RoseTTAFold-All-Atom/input_prep/make_ss.sh
 
 # Execute the run_inference module from the rf2aa package
-python -m rf2aa.run_inference --config-name nucleic_acid
+python -m rf2aa.run_inference --config-name protein_sm
