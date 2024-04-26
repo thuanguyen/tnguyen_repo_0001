@@ -16,10 +16,10 @@
 
 # Queue assignment (use GPU queue)
 #BSUB -q gpu
-#BSUB -R "select[a100 || h100]"
+#BSUB -R "select[a30]"
 
 # GPU allocation: request 1 shared GPU without MPS (multi-process service)
-#BSUB -gpu "num=1:mode=shared:mps=no"
+#BSUB -gpu "num=2:mode=shared:mps=yes"
 
 # Standard output and error files
 #BSUB -o out.%J
@@ -28,6 +28,7 @@
 # Activate the conda environment
 export HOME=/share/probioticengring/tvnguye4/
 export PATH="/usr/local/usrapps/probioticengring/tvnguyen/conda/envs/tvnBase/envs/RFAA/bin:$PATH"
+export PYTORCH_CUDA_ALLOC_CONF="max_split_size_mb:128"
 
 # Load necessary modules
 module load cuda/12.0 gcc/13.2.0 compiler/latest
